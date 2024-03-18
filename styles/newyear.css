@@ -1,0 +1,373 @@
+* {
+      font-family: "Open Sans", sans-serif;
+}
+
+/* header style */
+header {
+      background-image: url('Banner\ Image.png');
+      background-repeat: no-repeat;
+      max-width: 100%;
+      margin-top: 50px;
+      background-position: center;
+}
+
+.banner {
+      text-align: center;
+      padding: 170px 364px;
+      color: #fff;
+}
+
+.happy-new-year {
+      color: white;
+      text-align: center;
+      font-weight: 400px;
+      font-size: 32px;
+      font-family: Merriweather;
+}
+
+.banner-title {
+      color: #fff;
+      text-align: center;
+      font-family: Merriweather;
+      font-size: 73px;
+      font-weight: 900;
+      line-height: 95px;
+}
+
+/* section 1 style */
+.discount {
+      color: #F00;
+      text-align: center;
+      font-family: Inter;
+      font-size: 88px;
+      font-weight: 700;
+      line-height: normal;
+}
+
+.content {
+      color: #F00;
+      text-align: center;
+      font-family: Inter;
+      font-size: 24px;
+      font-weight: 500;
+}
+
+.title {
+      color: #070211;
+      text-align: center;
+      font-family: Inter;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 700;
+}
+
+.img-1 {
+      width: 802.9px;
+      height: 500px;
+      margin: 50px 500px;
+}
+
+/* section 2 style */
+.section-banner {
+      max-width: 100%;
+      background-image: url('Vectorrr.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      padding: 30px 140px;
+}
+
+.banner-2 {
+      padding: 0px 140px;
+      display: flex;
+      justify-content: space-between;
+}
+
+.banner-container {
+      margin-left: 140px;
+      margin-top: 50px;
+      width: 650px;
+}
+
+.banner-title-1 {
+      color: #fff;
+      font-family: merriweather;
+      font-size: 64px;
+      font-weight: 900px;
+      line-height: 88px;
+}
+
+.banner-description {
+      color: aliceblue;
+      font-family: Inter;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30px;
+}
+
+.button {
+      border: none;
+      color: #FFF;
+      text-align: center;
+      font-family: Inter;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: normal;
+      text-transform: uppercase;
+      background-color: transparent;
+}
+
+/* section 3 styles */
+.section-color {
+      background-color: pink;
+      border-radius: 8px;
+      padding: 50px 0px;
+      margin: 100px 140px;
+}
+
+.new-park-hotel {
+      color: #070211;
+      font-family: Inter;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 56px;
+      text-transform: capitalize;
+      text-align: center;
+}
+
+.color {
+      color: #F00;
+      text-align: center;
+      font-family: Inter;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 600px;
+      text-transform: capitalize;
+}
+
+.btn-primary {
+      align-items: center;
+      border: none;
+      border-radius: 8px;
+      text-align: center;
+      font-family: Inter;
+      font-size: 20px;
+      font-weight: 700px;
+      padding: 16px 32px;
+      color: #FFF;
+      border-radius: 8px;
+      background: #F00;
+
+
+}
+
+/* section-4-style */
+
+.section-coming-soon {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      padding: 50px 140px;
+      margin-top: 50px;
+}
+
+.title-coming {
+      color: #070211;
+      font-family: Merriweather;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 900;
+      line-height: normal;
+      text-transform: capitalize;
+}
+
+.new-best {
+      color: #F00;
+      font-family: Inter;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+}
+
+.img-3 {
+      align-items: center;
+      padding: 50px;
+      border: 15px solid red;
+      width: 363px;
+      border-radius: 363px;
+}
+
+.content-1 {
+      max-width: 400px;
+}
+
+.hpy-new-year {
+      text-align: right;
+      width: 276px;
+
+
+}
+
+/* section-5-styles */
+.holiday-container {
+      position: relative;
+}
+
+.holiday-contain {
+      padding: 50px 240px;
+      text-align: center;
+}
+
+.functional-style {
+      color: #070211;
+      font-family: Inter;
+      font-size: 24px;
+      font-weight: 500;
+}
+
+.holi-day-color {
+      color: #F00;
+      text-align: center;
+      font-family: Merriweather;
+      font-size: 72px;
+      font-weight: 900;
+
+}
+
+.holiday-style {
+      color: #070211;
+      font-family: Merriweather;
+      font-size: 72px;
+      font-weight: 900;
+}
+
+.holiday-description {
+      color: rgba(7, 2, 17, 0.60);
+      text-align: center;
+      font-family: Inter;
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 32px;
+}
+
+.img-4 {
+      position: relative;
+      left: 447px;
+      top: 5px;
+}
+
+.img-5 {
+      position: absolute;
+      bottom: 50px;
+}
+
+.img-7 {
+      position: absolute;
+      bottom: 370px;
+      left: 820px;
+}
+
+/* section 6 */
+.portfolio-container {
+      margin-left: 140px;
+      max-width: 500px;
+}
+
+.box {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 50px;
+      margin-left: 140px;
+
+}
+
+.title-dolor {
+      color: rgba(7, 2, 17, 0.60);
+      font-family: Inter;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 32px;
+      width: 896px;
+}
+
+/* section 7 */
+.subscribe-section {
+      width: 1320px;
+      height: 616px;
+      margin: 140px 100px;
+      padding: 80px 200px;
+      border-radius: 16px;
+      background: rgba(211, 132, 179, 0.05);
+}
+
+.img-9 {
+      text-align: center;
+}
+
+.subscribe {
+
+      color: #070211;
+      text-align: center;
+      font-family: Merriweather;
+      font-size: 48px;
+      font-weight: 900;
+      text-transform: capitalize;
+}
+
+.input {
+      text-align: center;
+}
+
+.input-style {
+      width: 648px;
+      height: 72px;
+      border-radius: 50px;
+      background: #FFF;
+      position: relative;
+      left: 150px;
+      border: 0px;
+      text-align: center;
+      font-family: Inter;
+      font-weight: 400px;
+
+}
+
+.btn-primary {
+      width: 210px;
+      height: 72px;
+      flex-shrink: 0;
+      border-radius: 0px 50px 50px 0px;
+      background: #F00;
+      font-family: Inter;
+      font-size: 20px;
+      font-weight: 600px;
+      position: relative;
+}
+
+/* footer-styles */
+footer {
+      background-color: #070211;
+}
+
+.footer-description {
+      display: flex;
+      justify-content: space-around;
+      padding: 50px 140px;
+
+}
+
+.logo-container {
+      text-align: center;
+}
+
+.footer-p {
+      color: #FFF;
+      font-family: Inter;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+}
